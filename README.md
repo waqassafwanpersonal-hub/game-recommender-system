@@ -87,4 +87,5 @@ All results appear only after user interaction.
    ```bash
    pip install pandas numpy scikit-learn matplotlib ipywidgets
 
+
    https://colab.research.google.com/drive/1QuZEyuBWZTlPhV1VvFL1bCOj0oepeWJ5?usp=sharing
